@@ -5,7 +5,7 @@ api_secret = "[REDACTED]"
 access_token = "[REDACTED]"
 access_token_secret = "[REDACTED]"
 
-auth = tweepy.oAuthHandler(api_key, api_secret)
+auth = tweepy.OAuthHandler(api_key, api_secret)
 auth.set_access_token(access_token, access_token_secret)
 
 api = tweepy.API(auth)
