@@ -2,6 +2,7 @@
 # Fuck Elon Musk
 import tweepy
 
+# Place holder API keys and tokens
 api_key = "[REDACTED]"
 api_secret = "[REDACTED]"
 access_token = "[REDACTED]"
