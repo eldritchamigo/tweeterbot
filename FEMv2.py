@@ -12,6 +12,7 @@ access_token_secret = "[REDACTED]"
 auth = tweepy.OAuthHandler(api_key, api_secret)
 auth.set_access_token(access_token, access_token_secret)
 
+# Authenticate
 api = tweepy.API(auth)
 
 api.update_status("I AM ALIVE!!!!!!")
