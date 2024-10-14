@@ -1,2 +1,3 @@
-# tweeterbot
+# Bot
+## tweeterbot
 Learning twitter API &amp; creating bot
