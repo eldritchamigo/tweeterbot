@@ -1,5 +1,5 @@
 
-# Fuck Elon Musk
+# 
 import tweepy
 
 # Place holder API keys and tokens
