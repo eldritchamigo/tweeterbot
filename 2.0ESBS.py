@@ -1,5 +1,5 @@
 
-# Elon Musk Should Be Shot
+#
 
 # Tweepy library needed. If not installed, use command line or terminal. 
 import tweepy
